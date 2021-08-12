@@ -1,0 +1,33 @@
+{
+  "name": "request-signing-insomnia-plugin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "insomnia": {
+    "name": "request-signing",
+    "displayName": "Request signing Plugin",
+    "description": "...",
+    "applications": {
+      "designer": "*",
+      "core": "*",
+      "cli": "*"
+    },
+    "publisher": {
+      "name": "Mohfarrej Kin Tuda"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kintuda/request-signing-insomnia-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kintuda/request-signing-insomnia-plugin/issues"
+  },
+  "homepage": "https://github.com/Kintuda/request-signing-insomnia-plugin#readme"
+}
